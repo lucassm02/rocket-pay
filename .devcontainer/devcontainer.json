@@ -24,8 +24,7 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"jakebecker.elixir-ls",
-		"mtxr.sqltools",
-		"mtxr.sqltools-driver-pg"
+		"iampeterbanjo.elixirlinter"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
